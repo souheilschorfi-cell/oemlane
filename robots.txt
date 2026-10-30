@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://souheilschorfi-cell.github.io/oemlane/sitemap.xml
